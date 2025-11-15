@@ -37,7 +37,7 @@
 ### 🔹 Standard Method:
 
 ```bash
-git clone https://github.com/ADIRTTA/CAM-HUNTER.git
+git clone https://github.com/BLACK-ZER-0/CAM-HUNTER.git
 cd CAM-HUNTER
 chmod +x *
 pip install -r requirements.txt
